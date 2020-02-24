@@ -1,0 +1,63 @@
+2020-02-24 23:27:41 INFO  App:48 - 	Select Task	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select a Construction Plan : 
+
+2020-02-24 23:28:34 INFO  App:48 - 	Select Task	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select a Construction Plan : 
+
+2020-02-24 23:30:43 INFO  App:48 - 	Select Task	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select a Construction Plan : 
+
+2020-02-24 23:33:25 INFO  App:48 - 	Select Task	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select a Construction Plan : 
+
+2020-02-24 23:33:28 INFO  App:85 - Enter values principal,RateOfInterest, Timeperiod
+
+2020-02-24 23:33:33 INFO  App:66 - Compound Interest is 34.75171191056377
+
+2020-02-24 23:33:33 INFO  App:73 - Do you want to enter more Y or N
+
+2020-02-24 23:33:37 INFO  App:48 - 	Select Task	
+** Interest Calculator **
+1. Simple Interest
+2. Compound Interest
+
+** Estimating House Construction Cost **
+3. Select a Construction Plan : 
+
+2020-02-24 23:33:40 INFO  App:105 - List of Plans Available are
+
+2020-02-24 23:33:40 INFO  App:110 - 1 High Standard Materials 1800per Square Meter
+
+2020-02-24 23:33:40 INFO  App:110 - 2 Above Standard Materials 1500per Square Meter
+
+2020-02-24 23:33:40 INFO  App:110 - 3 Standard Materials 1200per Square Meter
+
+2020-02-24 23:33:40 INFO  App:110 - 4 High Standard Materials and fully automated home 2500per Square Meter
+
+2020-02-24 23:33:44 INFO  App:119 - Enter the Area(LENGTH x BREADTH)
+2020-02-24 23:33:48 INFO  App:128 - The Total Cost for the Construction is 360000
+
+2020-02-24 23:33:48 INFO  App:73 - Do you want to enter more Y or N
+
+2020-02-24 23:33:50 INFO  App:78 - Terminated Successfully
+
